@@ -25,7 +25,7 @@ google_scholar_stats_use_cdn : false
 author:
   name             : "Yuetong Meng"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  #bio              : 
   location         : "Bloomington, Indiana"
   employer         :
   pubmed           : 
